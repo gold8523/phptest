@@ -1,2 +1,3 @@
 <?php
-echo 'Hello Php';
+$a = ' Git test';
+echo 'Hello Php' . $a;
